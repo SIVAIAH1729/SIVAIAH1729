@@ -20,7 +20,8 @@ I am a **Full-Stack MERN Developer** passionate about building modern, scalable,
 ---
 
 ## ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%23A03333.svg?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Bcrypt.js](https://img.shields.io/badge/Bcrypt.js-%2300ACC1.svg?style=for-the-badge) ![WebSockets](https://img.shields.io/badge/WebSockets-%23007ACC.svg?style=for-the-badge) ![CORS](https://img.shields.io/badge/CORS-%23007ACC.svg?style=for-the-badge) ![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B.svg?style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%23A03333.svg?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Bcrypt.js](https://img.shields.io/badge/Bcrypt.js-%2300ACC1.svg?style=for-the-badge) ![WebSockets](https://img.shields.io/badge/WebSockets-%23007ACC.svg?style=for-the-badge) ![CORS](https://img.shields.io/badge/CORS-%23007ACC.svg?style=for-the-badge)
+![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B.svg?style=for-the-badge)  
 
 ---
 
@@ -40,7 +41,8 @@ I am a **Full-Stack MERN Developer** passionate about building modern, scalable,
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHIVA6174&theme=neon&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA6174&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SHIVA6174&theme=neon&hide_border=true&include_all_commits=true&count_private=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA6174&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SHIVA6174&theme=radical&no-frame=true&no-bg=true&margin-w=4)
